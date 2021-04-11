@@ -46,6 +46,7 @@ def printMenu():
     #main 2
     #ultima modificacion al main 3
     
+    print("aqui estoy en la prueba 2")
 
 
 def initCatalog():
