@@ -46,6 +46,7 @@ def printMenu():
     print("\nRepasando como es que funcionan las ramas\nEstoy escribiendo en la nuevaRama")
     print("Bueno aqui voy a agregar mas cosas para probar si luego me toca solucionar errores")
     #2 nuevaRama
+    print("ultima modificacion de la ramaNueva")
 
 
 def initCatalog():
