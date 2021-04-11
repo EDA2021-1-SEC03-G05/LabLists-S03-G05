@@ -43,6 +43,8 @@ def printMenu():
     print("3- Consultar los libros de un autor")
     print("4- Libros por género")
     print("0- Salir")
+    #main 2
+    
 
 
 def initCatalog():
