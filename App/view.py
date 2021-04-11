@@ -53,6 +53,8 @@ def printMenu():
     #2 nuevaRama
     print("ultima modificacion de la ramaNueva")
 
+    print("ya aqui estan todas unidas")
+
 
 def initCatalog():
     """
