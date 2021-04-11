@@ -44,7 +44,7 @@ def printMenu():
     print("4- Libros por género")
     print("0- Salir")
     #main 2
-    
+    print("aqui estoy en la prueba 2")
 
 
 def initCatalog():
