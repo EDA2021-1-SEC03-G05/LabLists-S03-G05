@@ -37,12 +37,15 @@ operación solicitada
 
 def printMenu():
     print("Bienvenido")
+    #nuevaRama commit 2
     print("1- Cargar información en el catálogo")
     print("2- Consultar los Top x libros por promedio")
     print("3- Consultar los libros de un autor")
     print("4- Libros por género")
     print("0- Salir")
     print("\nRepasando como es que funcionan las ramas\nEstoy escribiendo en la nuevaRama")
+    print("Bueno aqui voy a agregar mas cosas para probar si luego me toca solucionar errores")
+    #2 nuevaRama
 
 
 def initCatalog():
