@@ -36,6 +36,7 @@ operación solicitada
 
 
 def printMenu():
+    print("Aqui estoy escribiendo en la main")
     print("Bienvenido")
     print("1- Cargar información en el catálogo")
     print("2- Consultar los Top x libros por promedio")
